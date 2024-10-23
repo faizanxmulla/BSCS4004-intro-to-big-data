@@ -1,0 +1,1 @@
+File input.txt contains 9 lines
