@@ -1,0 +1,6 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-pubsub
+google-api-core
+google-cloud-functions
+google-auth
